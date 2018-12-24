@@ -1,0 +1,6 @@
+{
+  "name": "ForgotPasswordReset",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./ForgotPasswordReset.js"
+}
